@@ -1,0 +1,5 @@
+name: postgreSQL
+channels:
+  - defaults
+prefix: /Users/mk/anaconda3/envs/postgreSQL
+
